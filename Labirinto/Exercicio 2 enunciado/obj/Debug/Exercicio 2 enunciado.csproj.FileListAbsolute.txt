@@ -1,0 +1,40 @@
+c:\users\nash\documents\visual studio 2015\Projects\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+c:\users\nash\documents\visual studio 2015\Projects\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe
+c:\users\nash\documents\visual studio 2015\Projects\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.pdb
+c:\users\nash\documents\visual studio 2015\Projects\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.csprojResolveAssemblyReference.cache
+c:\users\nash\documents\visual studio 2015\Projects\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+c:\users\nash\documents\visual studio 2015\Projects\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+G:\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+G:\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+G:\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+C:\Users\Nash\Desktop\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+C:\Users\Nash\Desktop\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+C:\Users\Nash\Desktop\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+C:\Users\Nash\Desktop\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe
+C:\Users\Nash\Desktop\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.pdb
+C:\Users\Nash\Desktop\Computador novo C#\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.csprojResolveAssemblyReference.cache
+D:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+D:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+D:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+G:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+G:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+G:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+G:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe
+G:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.pdb
+G:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.csprojResolveAssemblyReference.cache
+D:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe
+D:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.pdb
+D:\ap\Exercicio 2 enunciado\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.csprojResolveAssemblyReference.cache
+C:\Users\Nash\Desktop\Trabalho final e Exercicios para avaliação DIogo Nascimento cet 22\Trabalho Final\Labirinto\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+C:\Users\Nash\Desktop\Trabalho final e Exercicios para avaliação DIogo Nascimento cet 22\Trabalho Final\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+C:\Users\Nash\Desktop\Trabalho final e Exercicios para avaliação DIogo Nascimento cet 22\Trabalho Final\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final\Labirinto\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe.config
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\bin\Debug\Exercicio 2 enunciado.pdb
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.csprojResolveAssemblyReference.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.csproj.CoreCompileInputs.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\Trabalho Final 1\Labirinto\Exercicio 2 enunciado\obj\Debug\Exercicio 2 enunciado.pdb
